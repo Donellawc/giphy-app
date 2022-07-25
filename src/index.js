@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { UserProvider } from './context/UserContext';
-import { SearchProvider } from './context/SearchContex';
+import { SearchProvider } from './context/SearchContext';
 import { FavoritesProvider } from './context/FavoritesContext';
 
 
